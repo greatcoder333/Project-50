@@ -1,0 +1,68 @@
+h3{
+    color : gold
+    }
+    h1 {
+    color : deeppink
+    }
+    *{
+    color : brown
+    }
+
+.head{
+background-color: hotpink;
+display: flex;
+justify-content: space-evenly;
+}
+.camel{
+background-color: sandybrown;
+display: flex;
+justify-content: center;
+}
+.chameleon{
+background-color: springgreen;
+display: flex;
+justify-content: space-evenly;
+}
+.pidgeon{
+background-color: darkviolet;
+display: flex;
+justify-content: space-evenly;
+}
+.teddy-bear{
+background-color: royalblue;
+display: flex;
+justify-content: space-evenly;
+}
+.panda{
+background-color:yellowgreen;
+display: flex;
+justify-content: space-evenly;
+}
+.flying-cicada{
+background-color: rebeccapurple;
+display: flex;
+justify-content: space-evenly;
+}
+.heart-with-wings{
+background-color: orchid;
+display: flex;
+justify-content: space-evenly;
+}
+.popsicle{
+background-color: lawngreen;
+display: flex;
+justify-content: space-evenly;
+}
+.butterfly-fish{
+background-color: lightseagreen;
+display: flex;
+justify-content: space-evenly;
+}
+.about-us{
+background-color: lightpink;
+display: flex;
+justify-content: space-evenly;
+}
+.header{
+background-color: lightskyblue;
+}
